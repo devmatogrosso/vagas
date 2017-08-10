@@ -12,7 +12,7 @@ Vagas disponíveis em https://github.com/devmatogrosso/vagas/issues
 
 Abra uma **issue** e, no titulo desta _issue_, coloque o nome da cidade entre colchetes seguido do nome da vaga e nome da empresa.
 
-Exemplo: `[São Paulo] Front-End Developer na [NOME DA EMPRESA]`
+Exemplo: `[Cuiabá] Front-End Developer na [NOME DA EMPRESA]`
 
 Informe quais _labels_ devemos adicionar, contendo o nível de experiência desejada e a forma de contração.
 
