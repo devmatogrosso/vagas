@@ -31,8 +31,3 @@ Para evitar que possíveis candidatos enviem cvs para vagas já preenchidas, dê
 - [Vagas pra desenvolvedores PHP](https://github.com/phpdevbr/vagas)
 - [Vagas pra desenvolvedores Stone Pagamentos](https://github.com/stone-pagamentos/vagas)
 
-
- 
-## Licença
-
-[MIT](/LICENSE) &copy; FrontendBR
