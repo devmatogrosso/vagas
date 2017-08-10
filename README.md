@@ -24,6 +24,7 @@ Para evitar que possíveis candidatos enviem cvs para vagas já preenchidas, dê
 
 ### Outros repositórios de vagas
 
+- [Vagas para desenvolvedores FrontEnd](https://github.com/frontendbr/vagas)
 - [Vagas para desenvolvedores Android](https://github.com/androiddevbr/vagas)
 - [Vagas para desenvolvedores no Ceará](https://github.com/CangaceirosDevels/vagas_de_emprego)
 - [Vagas para desenvolvedores iOS e OSX](https://github.com/CocoaHeadsBrasil/vagas)
