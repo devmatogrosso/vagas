@@ -30,4 +30,5 @@ Para evitar que possíveis candidatos enviem cvs para vagas já preenchidas, dê
 - [Vagas para desenvolvedores iOS e OSX](https://github.com/CocoaHeadsBrasil/vagas)
 - [Vagas pra desenvolvedores PHP](https://github.com/phpdevbr/vagas)
 - [Vagas pra desenvolvedores Stone Pagamentos](https://github.com/stone-pagamentos/vagas)
+- [Vagas para desenvolvedores react](https://github.com/react-brasil/vagas)
 
